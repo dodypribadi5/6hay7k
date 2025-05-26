@@ -2,7 +2,7 @@
 "wasmer/static-web-server" = "^1"
 
 [fs]
-"/public" = "publict"
+"/public" = "public"
 "/settings" = "settings"
 
 [[command]]
